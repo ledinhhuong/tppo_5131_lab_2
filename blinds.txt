@@ -1,3 +1,0 @@
-shear_percent 84
-flux_percent 11
-current_illumination 120
